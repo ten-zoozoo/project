@@ -1,0 +1,8 @@
+.env
+_runtime/
+__pycache__/
+3.nii
+for_streamlit_data/
+precomputed_preds/
+*.nii
+miniproject/

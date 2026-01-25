@@ -1,0 +1,9 @@
+streamlit
+numpy
+nibabel
+matplotlib
+SimpleITK
+nnunetv2
+torch
+torchvision
+torchaudio
