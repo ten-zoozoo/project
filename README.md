@@ -221,9 +221,9 @@ MIMIC-IV Raw Data
 | 분류 | 기술 |
 |:---:|:---|
 | **AI / ML** | XGBoost Classifier, nnU-Net (PyTorch 기반) |
-| **데이터 처리** | Pandas, Polars, NumPy |
+| **데이터 처리** | Pandas, NumPy, Matplotlib, Seaborn |
 | **의료 영상** | nibabel (NIfTI), SimpleITK (DICOM), Matplotlib |
-| **프론트엔드** | Streamlit, Altair (인터랙티브 시각화) |
+| **프론트엔드** | Streamlit |
 | **데이터베이스** | PostgreSQL (psycopg2) |
 | **인프라** | Python 3.x, dotenv |
 
