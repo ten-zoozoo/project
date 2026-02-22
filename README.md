@@ -222,7 +222,7 @@ MIMIC-IV Raw Data
 |:---:|:---|
 | **AI / ML** | XGBoost Classifier, nnU-Net (PyTorch 기반) |
 | **데이터 처리** | Pandas, NumPy, Matplotlib, Seaborn |
-| **의료 영상** | nibabel (NIfTI), SimpleITK (DICOM), Matplotlib |
+| **의료 영상** | nibabel (NIfTI), SimpleITK (DICOM) |
 | **프론트엔드** | Streamlit |
 | **데이터베이스** | PostgreSQL (psycopg2) |
 | **인프라** | Python 3.x, dotenv |
